@@ -25,8 +25,8 @@ conda install -y -c pytorch pytorch=1.7.1 torchvision=0.8.2
 pip install flask==2.0.2
 pip install git+https://github.com/openai/CLIP.git
 ```
-3. Download [**FashionIQ**](https://sites.google.com/view/cvcreative2020/fashion-iq)
-and [**CIRR**](https://cuberick-orion.github.io/CIRR/) datasets
+3. Download [**FashionIQ**](https://drive.google.com/file/d/1sMC7rBZHG9Z4RhG6vdS9x5yB8-7Hr7RI/view?usp=drive_link)
+and [**CIRR**](https://drive.google.com/file/d/1-90WK2b5ceQeXjDb9toW0sGRP9UEtB2l/view?usp=drive_link) datasets
 ## Usage
 Here's a brief description of each and every file and folder in the repo:
 
