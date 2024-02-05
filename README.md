@@ -40,8 +40,8 @@ Here's a brief description of each and every file and folder in the repo:
 * ```templates```: Flask templates folder
 
 ### Data Preparation
-To properly work with the codebase [**FashionIQ**](https://sites.google.com/view/cvcreative2020/fashion-iq)
-and [**CIRR**](https://cuberick-orion.github.io/CIRR/) datasets should have the following structure:
+To properly work with the codebase [**FashionIQ**](https://drive.google.com/file/d/1sMC7rBZHG9Z4RhG6vdS9x5yB8-7Hr7RI/view?usp=drive_link)
+and [**CIRR**](https://drive.google.com/file/d/1-90WK2b5ceQeXjDb9toW0sGRP9UEtB2l/view?usp=drive_link) datasets should have the following structure:
 
 
 ```
